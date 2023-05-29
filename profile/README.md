@@ -1,4 +1,4 @@
-# VIPS TV
+![VIPS TV](VIPSLOGO.gif)
 
 VIPS TV is een online mediaplatform, opgericht in september 2012 door [Brian op de Dijk](https://brianopdedijk.nl). Sinds 2015 is VIPS TV officieel ingeschreven bij de Kamer van Koophandel.
 
